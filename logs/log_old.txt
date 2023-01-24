@@ -1,0 +1,142 @@
+test_source/fdating_datas.txt copied to test_replica/fdating_datas.txt
+test_source/autoping.ahk copied to test_replica/autoping.ahk
+test_source/stuff_to_share.txt copied to test_replica/stuff_to_share.txt
+test_source/targobankIBAN.txt copied to test_replica/targobankIBAN.txt
+test_source/nipkllirs.txt copied to test_replica/nipkllirs.txt
+test_source/98f9c8dcd4d5a02f52af042f11f08386.rsdf:Zone.Identifier copied to test_replica/98f9c8dcd4d5a02f52af042f11f08386.rsdf:Zone.Identifier
+test_source/storage_NMS.txt copied to test_replica/storage_NMS.txt
+test_source/MEGA-RECOVERYKEY.txt:Zone.Identifier copied to test_replica/MEGA-RECOVERYKEY.txt:Zone.Identifier
+test_source/proof_ownership_code_advent.txt copied to test_replica/proof_ownership_code_advent.txt
+test_source/Numeri telefono.txt copied to test_replica/Numeri telefono.txt
+test_source/steam_cheats.txt copied to test_replica/steam_cheats.txt
+test_source/dim_piatto_makerbot.txt copied to test_replica/dim_piatto_makerbot.txt
+test_source/1.CEM copied to test_replica/1.CEM
+test_source/pw_blizzard_sadomase.txt copied to test_replica/pw_blizzard_sadomase.txt
+test_source/allperksweapons.txt copied to test_replica/allperksweapons.txt
+test_source/steamkey.txt copied to test_replica/steamkey.txt
+test_source/libri da leggere.txt copied to test_replica/libri da leggere.txt
+test_source/CGI_credentials.txt copied to test_replica/CGI_credentials.txt
+test_source/pw_home.txt copied to test_replica/pw_home.txt
+test_source/voucher_flixbus.txt copied to test_replica/voucher_flixbus.txt
+test_source/autoclick.ahk copied to test_replica/autoclick.ahk
+test_source/docs.lnk copied to test_replica/docs.lnk
+test_source/cose da fare.txt copied to test_replica/cose da fare.txt
+test_source/pwwifiniko.txt copied to test_replica/pwwifiniko.txt
+test_source/tracert.txt copied to test_replica/tracert.txt
+test_source/doc_germania.txt copied to test_replica/doc_germania.txt
+test_source/ricetta panatura pesce.txt copied to test_replica/ricetta panatura pesce.txt
+test_source/cred_infosys.txt copied to test_replica/cred_infosys.txt
+test_source/documenti pc_old - collegamento.lnk copied to test_replica/documenti pc_old - collegamento.lnk
+test_source/numeri_lavori_berlino.txt copied to test_replica/numeri_lavori_berlino.txt
+test_source/dati_niko_kk.txt copied to test_replica/dati_niko_kk.txt
+test_source/MIC_router.txt copied to test_replica/MIC_router.txt
+test_source/MEGA-RECOVERYKEY.txt copied to test_replica/MEGA-RECOVERYKEY.txt
+test_source/aimlab_routine.txt copied to test_replica/aimlab_routine.txt
+test_source/PAT_VT6112021.txt copied to test_replica/PAT_VT6112021.txt
+test_source/cover_letter_2.txt copied to test_replica/cover_letter_2.txt
+test_source/update_cv.txt copied to test_replica/update_cv.txt
+test_source/contatto_giusy.txt copied to test_replica/contatto_giusy.txt
+test_source/98f9c8dcd4d5a02f52af042f11f08386.rsdf copied to test_replica/98f9c8dcd4d5a02f52af042f11f08386.rsdf
+test_source/pathping.txt copied to test_replica/pathping.txt
+test_source/film da vedere.txt copied to test_replica/film da vedere.txt
+test_source/bewerbung_BZ.txt copied to test_replica/bewerbung_BZ.txt
+test_source/pw_home_grp.txt copied to test_replica/pw_home_grp.txt
+test_source/presentazione_domande_lavoro.txt copied to test_replica/presentazione_domande_lavoro.txt
+test_source/codclienteFASTWEB.txt copied to test_replica/codclienteFASTWEB.txt
+test_source/recipe_sauerkraut.txt copied to test_replica/recipe_sauerkraut.txt
+test_source/15062021itlinfpw.txt copied to test_replica/15062021itlinfpw.txt
+test_source/ror2modslist.txt copied to test_replica/ror2modslist.txt
+test_source/qchainAPP_privatekey.txt copied to test_replica/qchainAPP_privatekey.txt
+test_source/whisper_sequences.txt copied to test_replica/whisper_sequences.txt
+test_source/info_uffici.txt copied to test_replica/info_uffici.txt
+test_source/protonmail_recupero.txt copied to test_replica/protonmail_recupero.txt
+test_source/libri da comprare e legger.txt copied to test_replica/libri da comprare e legger.txt
+test_source/autoend.ahk copied to test_replica/autoend.ahk
+test_source/win10_godmode.txt copied to test_replica/win10_godmode.txt
+test_source/heras30042021.txt copied to test_replica/heras30042021.txt
+test_source/SEARCH_ENGINE_BIBLE.txt copied to test_replica/SEARCH_ENGINE_BIBLE.txt
+test_source/pw_twitter.txt copied to test_replica/pw_twitter.txt
+test_source/codfiscfather.txt copied to test_replica/codfiscfather.txt
+test_source/pwtobiaonlineclinica.txt copied to test_replica/pwtobiaonlineclinica.txt
+test_source/annuncio_lavoro.txt copied to test_replica/annuncio_lavoro.txt
+test_source/account_steam_2.txt copied to test_replica/account_steam_2.txt
+test_source/schools_adrss.txt copied to test_replica/schools_adrss.txt
+test_source/dati.txt copied to test_replica/dati.txt
+test_source/dati_banca.txt copied to test_replica/dati_banca.txt
+test_source/spese_mensili.txt copied to test_replica/spese_mensili.txt
+test_source/AP_ammissione_MWHAHA.txt copied to test_replica/AP_ammissione_MWHAHA.txt
+test_source/podcast_swords.txt copied to test_replica/podcast_swords.txt
+test_source/vegan_ragu_recipe.txt copied to test_replica/vegan_ragu_recipe.txt
+test_source/presentazione_case_berlin.txt copied to test_replica/presentazione_case_berlin.txt
+test_source/backup tokens.txt copied to test_replica/backup tokens.txt
+test_replica/98f9c8dcd4d5a02f52af042f11f08386.rsdf:Zone.Identifier removed
+test_replica/AP_ammissione_MWHAHA.txt removed
+test_replica/codfiscfather.txt removed
+test_replica/codclienteFASTWEB.txt removed
+test_replica/allperksweapons.txt removed
+test_replica/autoclick.ahk removed
+test_replica/CGI_credentials.txt removed
+test_replica/annuncio_lavoro.txt removed
+test_replica/98f9c8dcd4d5a02f52af042f11f08386.rsdf removed
+test_replica/1.CEM removed
+test_replica/bewerbung_BZ.txt removed
+test_replica/backup tokens.txt removed
+test_replica/cose da fare.txt removed
+test_replica/contatto_giusy.txt removed
+test_replica/account_steam_2.txt removed
+test_replica/aimlab_routine.txt removed
+test_replica/15062021itlinfpw.txt removed
+test_replica/autoping.ahk removed
+test_replica/autoend.ahk removed
+test_replica/protonmail_recupero.txt removed
+test_replica/MEGA-RECOVERYKEY.txt removed
+test_replica/schools_adrss.txt removed
+test_replica/docs.lnk removed
+test_replica/update_cv.txt removed
+test_replica/spese_mensili.txt removed
+test_replica/libri da comprare e legger.txt removed
+test_replica/podcast_swords.txt removed
+test_replica/cred_infosys.txt removed
+test_replica/pathping.txt removed
+test_replica/libri da leggere.txt removed
+test_replica/info_uffici.txt removed
+test_replica/pw_home.txt removed
+test_replica/pw_home_grp.txt removed
+test_replica/dati.txt removed
+test_replica/presentazione_domande_lavoro.txt removed
+test_replica/film da vedere.txt removed
+test_replica/vegan_ragu_recipe.txt removed
+test_replica/win10_godmode.txt removed
+test_replica/pwwifiniko.txt removed
+test_replica/documenti pc_old - collegamento.lnk removed
+test_replica/dati_banca.txt removed
+test_replica/qchainAPP_privatekey.txt removed
+test_replica/dim_piatto_makerbot.txt removed
+test_replica/stuff_to_share.txt removed
+test_replica/dati_niko_kk.txt removed
+test_replica/MEGA-RECOVERYKEY.txt:Zone.Identifier removed
+test_replica/numeri_lavori_berlino.txt removed
+test_replica/proof_ownership_code_advent.txt removed
+test_replica/pw_blizzard_sadomase.txt removed
+test_replica/voucher_flixbus.txt removed
+test_replica/heras30042021.txt removed
+test_replica/steamkey.txt removed
+test_replica/MIC_router.txt removed
+test_replica/ror2modslist.txt removed
+test_replica/nipkllirs.txt removed
+test_replica/Numeri telefono.txt removed
+test_replica/doc_germania.txt removed
+test_replica/whisper_sequences.txt removed
+test_replica/storage_NMS.txt removed
+test_replica/recipe_sauerkraut.txt removed
+test_replica/presentazione_case_berlin.txt removed
+test_replica/pwtobiaonlineclinica.txt removed
+test_replica/tracert.txt removed
+test_replica/fdating_datas.txt removed
+test_replica/ricetta panatura pesce.txt removed
+test_replica/pw_twitter.txt removed
+test_replica/targobankIBAN.txt removed
+test_replica/PAT_VT6112021.txt removed
+test_replica/cover_letter_2.txt removed
+test_replica/SEARCH_ENGINE_BIBLE.txt removed
+test_replica/steam_cheats.txt removed
