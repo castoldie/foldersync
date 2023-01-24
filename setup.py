@@ -12,7 +12,7 @@ setup(
     ],
     entry_points={
         'console_scripts': [
-            'folder_sync = folder_sync:sync_folders'
+            'folder_sync = folder_sync:sync_folders' # this very convenient line make so that you can use folder_sync from whenever in your system
         ]
-    },
+    },  
 )
