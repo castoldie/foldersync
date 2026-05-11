@@ -1,33 +1,61 @@
-# Foldersync
+# foldersync
 
-Hello everyone! Foldersync is a very simple synchronization tool that takes the status of a source folder and clones it onto a destination folder, regularly every given time.
+A very simple folder-synchronisation tool. Periodically clones the contents of a source folder into a destination folder, logging every operation to both stdout and a file. Single-file implementation, no dependencies beyond the Python standard library.
 
 ## Installation
 
-To install the package, first clone this repository:
+```bash
+git clone https://github.com/castoldie/foldersync.git
+cd foldersync
+make install        # equivalent to: pip install .
+```
 
-`git clone https://github.com/castoldie/foldersync.git`
-
-Then to install Foldersync is as easy as running:
-
-`make install`
+This registers the `folder_sync` CLI entry point.
 
 ## Usage
 
-### To start the synchronization process you have 2 options:
+```bash
+folder_sync <source> <replica> <interval_seconds> <log_file>
+```
 
-1 - You can manually start the program by running in your terminal:
-    
-`folder_sync /path/to/source /path/to/replica 3600 /path/to/log.txt`
-    
-this will synchronize the `/path/to/source` folder with the `/path/to/replica` folder every 3600 seconds (1 hour), and log the file operations to `/path/to/log.txt`.
+### Examples
 
-2 - You can simply run, always in your terminal while in the root of your repo´s local directory:
+Synchronise every hour and log to `/path/to/log.txt`:
 
-`make test`
-    
-this will run the same command as in the previous point, but pointing the test_X folders contained in this repo, syncing every 10 seconds, so you can see by yourself the behaviour of this app without waiting as much.
+```bash
+folder_sync /path/to/source /path/to/replica 3600 /path/to/log.txt
+```
 
-## Note:
+Quick local test (uses the bundled `test_source/` and `test_replica/` folders, syncs every 10 seconds):
 
-In order to avoid making the repo too heavy, i made a test run with files of my own, then removed them from source. You can see the output of this operation in `logs/log_old.txt`
+```bash
+make test
+```
+
+## How it works
+
+The entire app is one file: `foldersync/foldersync.py`.
+
+`sync_folders(src, dst, interval, log_file)` runs an infinite loop that:
+
+1. Diffs `os.listdir(src)` vs `os.listdir(dst)` as sets.
+2. Copies new files (`src - dst`) and modified files (`src ∩ dst` where `getmtime(src) > getmtime(dst)`).
+3. Removes destination files that are no longer in source.
+4. Logs every operation to stdout and the log file.
+5. Sleeps for `interval` seconds, then repeats.
+
+The process runs until killed (Ctrl+C).
+
+## Constraints
+
+- **Flat directories only.** `os.listdir` is not recursive — nested directories are not traversed.
+- **mtime-only change detection.** A file is considered changed if its source `mtime` is newer than the destination's. Size and content hashes are ignored.
+- **No error handling.** Any failed file operation will crash the process.
+
+## Logs
+
+`logs/log_old.txt` contains the output of an earlier test run on real files (since removed from the repo to keep it light). It's there as a reference for what real activity looks like.
+
+## Status
+
+No automated tests or linting are configured. Demo-quality code.
